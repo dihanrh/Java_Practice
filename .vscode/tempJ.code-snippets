@@ -1,0 +1,18 @@
+{
+	"Tamplate for Java": {
+		"scope": "java",
+		"prefix": "tempJ",
+		"body": [
+			"public class  {",
+			"public static void main (String [] args )",
+						"{",
+						
+						"}",
+
+							"}"
+
+
+		],
+		"description": "Put the template of Java"
+	}
+}
