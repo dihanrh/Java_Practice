@@ -30,7 +30,6 @@ public class largest {
 
         System.out.println("Largest among three is : " + max( a , b ,c )) ; 
 
-
     }
     
 }
