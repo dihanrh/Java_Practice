@@ -6,13 +6,7 @@ public class IO {
         Scanner input =  new Scanner(System.in) ;
         System.out.println("Enter Your First Name : ") ; 
         String FN = input.nextLine() ;
-        
-
         System.out.println("First Name : "+FN) ; 
-
-
-
-
 
     }
 }
